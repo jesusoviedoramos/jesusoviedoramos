@@ -37,6 +37,6 @@ I am currently working on my portfolio.
 
 - **contact**
 
-  <a sref="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <a sref="https://www.instagram.com/j.e.s.h.u.s/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   
